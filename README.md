@@ -5,5 +5,5 @@ Com essa experiência, aprendi a desenvolver notebook's de IA Generativa, inclui
 A funcionalidade que eu mais gostei foi o Mapa Mental, onde eu pude ter as informações separadas em cada tópico, de maneira estrutural e organizada, otimizando a absorção das informações, geradas através de IA.
 
 # 📝 Sobre o projeto
-Neste notebook, foram incluídos atigos técnicos sobre: Modelagem de Dados, Data Science e Metodologias de Analytics, também incluí tutoriais e melhores práticas de como elaborar um bom Dashboard. O material foi gerado no formato de Slides e baixado em PDF, mas pode ser consultado através do link abaixo:
+Neste notebook, foram incluídos atigos técnicos sobre: Modelagem de Dados, Data Science e Metodologias de Analytics, também incluí tutoriais e melhores práticas de como elaborar um bom Dashboard. O material foi gerado no formato de Slides e baixado em PDF, mas pode ser consultado através do link abaixo: <br>
 https://notebooklm.google.com/notebook/dc5e9fb9-c883-426d-bba6-7f331c4c7897
