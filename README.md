@@ -1,1 +1,5 @@
-# dio-course-notebooklm
+# 🚀 Aprendendo a utilizar o Notebook LM!
+
+Com essa experiência, aprendi a desenvolver notebook's de IA Generativa, incluir fontes de dados (Textos, URLs, Vídeos...) para alimentar o conhecimento do "cérebro" por trás do meu Notebook e extrair o máximo possível desse tipo de conteúdo. Também foi possível gerar: Mapa Mental, Resumo em Áudio e entre outros, o que facilita demais o consumo do material. Então agora eu consigo resumir e extrair apenas os tópicos que me interessam, de um livro técnico, por exemplo, em segundos! Antes algo que me levaria dias ou anos.
+
+A funcionalidade que eu mais gostei foi o Mapa Mental, onde eu pude ter as informações separadas em cada tópico, de maneira estrutural e organizada, otimizando a absorção das informações, geradas através de IA.
